@@ -149,6 +149,7 @@
 
 .btn-account {
   outline: none;
+  position: absolute;
   margin-left: -200px;
   display: inline-block;
   box-shadow: none !important;
